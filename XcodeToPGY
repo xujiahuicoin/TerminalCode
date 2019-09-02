@@ -1,6 +1,8 @@
 #!/bin/bash
 #for_徐家汇（https://www.cnblogs.com/xujiahui/）
 
+#运行命令
+#sh -c "$(curl -sSL https://raw.githubusercontent.com/xujiahuicoin/TerminalCode/master/XcodeToPGY)"
 
 #=====================执行环境说明=====================#
 #1，请安装fastlane工具，使用Hhomebrew安装；
